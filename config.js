@@ -18,7 +18,7 @@ const CONFIG = {
 
   // ── 메인 (히어로) ──
   groom: {
-    name: "박현제",
+    name: "현제",
     nameEn: "Groom",
     father: "아버지",
     mother: "어머니",
@@ -27,7 +27,7 @@ const CONFIG = {
   },
 
   bride: {
-    name: "류예리",
+    name: "예리",
     nameEn: "Bride",
     father: "류태욱",
     mother: "변은미",
@@ -38,12 +38,12 @@ const CONFIG = {
   wedding: {
     date: "2026-08-30",
     time: "13:40",
-    venue: "더베뉴지",
+    venue: "더베뉴지\n\n네이처홀",
     hall: "네이처홀",
     address: "서울 강서구 강서로 388",
     tel: "02-2657-2100",
     mapLinks: {
-      kakao: "https://place.map.kakao.com/8700757/",
+      kakao: "https://place.map.kakao.com/8700757",
       naver: "https://map.naver.com/p/entry/place/33499928?c=15.00,0,0,0,dh&placePath=/home?from=map&from=map&fromPanelNum=1&additionalHeight=76&timestamp=202603212020&locale=ko&svcName=map_pcv5&fromPanelNum=1&additionalHeight=76&timestamp=202603212016&locale=ko&svcName=map_pcv5/"
     }
   },
@@ -66,14 +66,14 @@ const CONFIG = {
   // ── 마음 전하실 곳 ──
   accounts: {
     groom: [
-      { role: "신랑", name: "홍길동", bank: "국민은행", number: "000-000-000000" },
-      { role: "아버지", name: "홍판서", bank: "신한은행", number: "000-000-000000" },
-      { role: "어머니", name: "김부인", bank: "우리은행", number: "000-000-000000" }
+      { role: "신랑", name: "홍길동", bank: "신한은행", number: "110468-888150" },
+      { role: "아버지", name: "박희림", bank: "신한은행", number: "000-000-000000" },
+      { role: "어머니", name: "장미희", bank: "우리은행", number: "000-000-000000" }
     ],
     bride: [
       { role: "신부", name: "류예리", bank: "카카오뱅크", number: "3333-12-8027325" },
-      { role: "아버지", name: "류태욱", bank: "기업은행", number: "000-000-000000" },
-      { role: "어머니", name: "변은미", bank: "농협은행", number: "000-000-000000" }
+      { role: "아버지", name: "류태욱", bank: "우체국", number: "013946-02-168227" },
+      { role: "어머니", name: "변은미", bank: "카카오뱅크", number: "3333-15-5312961" }
     ]
   },
 
