@@ -20,8 +20,8 @@ const CONFIG = {
   groom: {
     name: "현제",
     nameEn: "Groom",
-    father: "아버지",
-    mother: "어머니",
+    father: "박희림",
+    mother: "장미희",
     fatherDeceased: false,
     motherDeceased: false
   },
